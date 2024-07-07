@@ -1,0 +1,13 @@
+{
+  "name": "batch-processing-best-practices",
+  "version": "0.0.1",
+  "author": "@Toyb0x",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "prettier": "3.3.2"
+  }
+}
