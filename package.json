@@ -12,9 +12,9 @@
   },
   "volta": {
     "node": "22.4.0",
-    "pnpm": "9.4.0"
+    "pnpm": "9.5.0"
   },
-  "packageManager": "pnpm@9.4.0",
+  "packageManager": "pnpm@9.5.0",
 
   "devDependencies": {
     "prettier": "3.3.2"
