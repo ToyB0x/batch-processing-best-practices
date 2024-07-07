@@ -7,6 +7,15 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "format:check": "prettier --check \"**/*.{ts,tsx,md}\""
   },
+  "engines": {
+    "node": "22"
+  },
+  "volta": {
+    "node": "22.3.0",
+    "pnpm": "9.4.0"
+  },
+  "packageManager": "pnpm@9.4.0",
+
   "devDependencies": {
     "prettier": "3.3.2"
   }
