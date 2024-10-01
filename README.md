@@ -2,6 +2,11 @@
 
 このリポジトリは、**バッチ処理のベストプラクティス**を網羅した**簡潔で実用的なチェックリスト**を提供します。
 
+## チェックリスト本文
+- [日本語のチェックリスト](https://github.com/ToyB0x/batch-processing-best-practices/tree/main/docs/ja)
+- English Check List (WIP)
+
+
 ### 概要
 
 - **簡潔性**: 実用性を重視し、30～50項目程に厳選されたチェックリストを提供します。
