@@ -8,10 +8,10 @@
     "format:check": "prettier --check \"**/*.{ts,tsx,md}\""
   },
   "engines": {
-    "node": "22"
+    "node": "24"
   },
   "volta": {
-    "node": "22.9.0",
+    "node": "24.21.0",
     "pnpm": "9.14.4"
   },
   "packageManager": "pnpm@9.14.4",
